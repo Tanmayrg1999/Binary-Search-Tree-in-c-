@@ -6,12 +6,12 @@ Binary Search Tree or A BST is a node-based binary tree data structure which has
 
 Following are the basic operations of a tree −
 
-    Search − Searches an element in a tree.
+Search − Searches an element in a tree.
 
-    Insert − Inserts an element in a tree.
+Insert − Inserts an element in a tree.
 
-    Pre-order Traversal − Traverses a tree in a pre-order manner.
+Pre-order Traversal − Traverses a tree in a pre-order manner.
 
-    In-order Traversal − Traverses a tree in an in-order manner.
+In-order Traversal − Traverses a tree in an in-order manner.
 
-    Post-order Traversal − Traverses a tree in a post-order manner.
+Post-order Traversal − Traverses a tree in a post-order manner.
